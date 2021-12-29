@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/daeseongkim/Documents/jsoup-1.14.3.jar"/>
+	<classpathentry kind="lib" path="/Users/daeseongkim/Downloads/httpcomponents-core-4.4.15-bin/lib/httpcore-ab-4.4.15.jar"/>
+	<classpathentry kind="lib" path="/Users/daeseongkim/Downloads/httpcomponents-core-4.4.15-bin/lib/httpcore-osgi-4.4.15.jar"/>
+	<classpathentry kind="lib" path="/Users/daeseongkim/Downloads/httpcomponents-core-4.4.15-bin/lib/httpcore-nio-4.4.15.jar"/>
+	<classpathentry kind="lib" path="/Users/daeseongkim/Downloads/httpcomponents-core-4.4.15-bin/lib/httpcore-4.4.15.jar"/>
+	<classpathentry kind="lib" path="/Users/daeseongkim/Downloads/httpcomponents-core-4.4.15-bin/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
